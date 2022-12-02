@@ -4,3 +4,5 @@
 # author: Dati Esco
 # This is a Front end Application
 # we will be adding more lines to this 
+
+# bug removed
